@@ -1,4 +1,4 @@
-![Restaurant Recommendation Dashboard](./images/Restaurant_Dashboard_Cover.png)
+![Restaurant Recommendation Dashboard](https://github.com/tranquochung09062001-dev/Restaurant-Customer-Feedback-Rating-Analysis/blob/main/Restaurant_Hero_Cover.png)
 
 # 🍽️ Restaurant & Consumer Rating Dashboard | Consumer Behavior & Restaurant Performance Analysis | Power BI
 
@@ -118,7 +118,7 @@ The model follows an **extended star schema**, with `fact_ratings` as the centra
 - `dim_restaurant_cuisines` (1 → \*) via `Restaurant_ID` → analysis by the cuisine type each restaurant serves
 - `dim_consumer_preferences` (1 → \*) via `Consumer_ID` → analysis by the consumer's preferred cuisine
 
-![Data Model](./images/Model_View.png)
+![Data Model](https://github.com/tranquochung09062001-dev/Restaurant-Customer-Feedback-Rating-Analysis/blob/main/Model_View.jpg)
 
 ---
 
@@ -128,25 +128,25 @@ Before building the dashboard, a **stakeholder requirement analysis** was conduc
 
 **1️⃣ Empathize**
 
-![Step 1 - Empathize](./images/design_thinking_01_empathize.svg)
+![Step 1 - Empathize](https://github.com/tranquochung09062001-dev/Restaurant-Customer-Feedback-Rating-Analysis/blob/main/design_thinking_01_empathize.png)
 
 Identified the primary stakeholder (**Restaurant Owner / Operations Manager**), someone who needs to quickly grasp customer sentiment but doesn't have time to read raw data row by row.
 
 **2️⃣ Define**
 
-![Step 2 - Define](./images/design_thinking_02_define.svg)
+![Step 2 - Define](https://github.com/tranquochung09062001-dev/Restaurant-Customer-Feedback-Rating-Analysis/blob/main/design_thinking_02_define.png)
 
 Problem statement: *"The restaurant owner needs a visual, easy-to-understand dashboard to quickly identify which customer segments, operational factors, and cuisine types are driving positive experiences — enabling confident decisions on service improvement and menu direction."*
 
 **3️⃣ Ideate**
 
-![Step 3 - Ideate](./images/design_thinking_03_ideate.svg)
+![Step 3 - Ideate](https://github.com/tranquochung09062001-dev/Restaurant-Customer-Feedback-Rating-Analysis/blob/main/design_thinking_03_ideate.png)
 
 Mapped out the decision points that needed support: identifying well-rated restaurants, pinpointing operational factors that affect ratings, profiling customers by age/occupation, and identifying preferred cuisines.
 
 **4️⃣ Prototype & Review**
 
-![Step 4 - Prototype and Review](./images/design_thinking_04_prototype.svg)
+![Step 4 - Prototype and Review](https://github.com/tranquochung09062001-dev/Restaurant-Customer-Feedback-Rating-Analysis/blob/main/design_thinking_04_prototype.png)
 
 Structured the report into **3 focused pages** (Overview → Restaurants → Customers) so the dashboard can be understood within 30 seconds, matching how it's actually used in quick operational review meetings.
 
@@ -173,7 +173,7 @@ Structured the report into **3 focused pages** (Overview → Restaurants → Cus
 
 ### 1️⃣ Overview
 
-![Overview](./images/Overview.jpg)
+![Overview](https://github.com/tranquochung09062001-dev/Restaurant-Customer-Feedback-Rating-Analysis/blob/main/OverView(1).jpg)
 
 📌 **Insight 1 — Customer satisfaction remains low, primarily driven by poor service quality:**
 - **Observation:** Overall Positive Rating reaches only around **42–46%**, meaning more than half of the restaurants in the survey receive negative ratings from customers. Looking closer, **Food Rating (44%)** is higher than **Service Rating (36%)**, yet both sit below 50% — with Service Rating being the weakest metric. This shows food quality isn't the biggest issue; **the service experience is the strongest driver** of customer satisfaction.
@@ -185,7 +185,7 @@ Structured the report into **3 focused pages** (Overview → Restaurants → Cus
 
 ### 2️⃣ Restaurants
 
-![Restaurant](./images/Restaurant.jpg)
+![Restaurant](https://github.com/tranquochung09062001-dev/Restaurant-Customer-Feedback-Rating-Analysis/blob/main/Restaurant.jpg)
 
 📌 **Insight 3 — Good food alone does not guarantee customer traffic:**
 - **Observation:** **Mexican** is the most preferred cuisine in the system (104 selections), well ahead of **Bar (78)** and **Fast Food (75)**. However, the **Morelos** area has the highest Food Rating yet noticeably lower customer traffic than other areas — showing that good food quality alone isn't enough to attract customers; factors like marketing, location, or brand recognition also affect footfall. In addition, restaurants with **Valet** parking achieve the highest positive rating rate (57.1%), and the **Bar Only** group in the smoking category leads in positive ratings (61%).
@@ -197,7 +197,7 @@ Structured the report into **3 focused pages** (Overview → Restaurants → Cus
 
 ### 3️⃣ Customers
 
-![Customers](./images/Customers.jpg)
+![Customers](https://github.com/tranquochung09062001-dev/Restaurant-Customer-Feedback-Rating-Analysis/blob/main/Customers.jpg)
 
 📌 **Insight 5 — Survey results mainly reflect young customers' opinions:**
 - **Observation:** About **106/138** survey participants fall into the **18–25** age group, indicating most responses come from students or early-career employees (mostly **Employed** or **Student**, and mostly single — 121 single customers versus only 10 married). However, the **26–35** age group shows a noticeably lower Overall Rating and, in particular, Service Rating — suggesting more mature customers tend to have higher expectations for service quality and experience. **Mexican** food remains the top favorite, chosen by **74%** of customers, and the **Casual Drinker** segment dominates across most traffic levels.
