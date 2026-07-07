@@ -28,20 +28,30 @@ _Analyzing consumer behavior and restaurant rating performance to identify targe
 This project analyzes **Restaurant & Consumer Rating data** using **Power BI**, building an interactive dashboard with **3 main pages**. Objectives:
 
 ✔️ Track the overall health of the restaurant system — total restaurants, total ratings, positive rating rate.
+
 ✔️ Compare rating performance across cities, price tiers, and service types to identify strengths/weaknesses.
+
 ✔️ Analyze operational factors (parking, smoking area, franchise) that impact the positive rating rate.
+
 ✔️ Profile customers by age, occupation, marital status, and drinking habits.
+
 ✔️ Identify the most preferred cuisines/foods to guide menu direction.
+
 ✔️ Provide interactive filters (Cuisine, Restaurant, Group Age, Drink Level) to explore the data from multiple angles.
+
 
 The dashboard is split into **3 pages** — Overview, Restaurants, Customers — letting users move from the big picture down to detailed customer behavior.
 
 ### 👤 Who is this project for?
 
 ✔️ Data analysts & business analysts
+
 ✔️ Restaurant owners / F&B operations managers
+
 ✔️ Marketing & CRM teams
+
 ✔️ Investors / parties evaluating restaurant chain expansion potential
+
 
 ---
 
