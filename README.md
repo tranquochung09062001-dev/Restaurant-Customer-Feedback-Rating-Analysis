@@ -250,7 +250,3 @@ Structured the report into **3 focused pages** (Overview → Restaurants → Cus
    Insight: 106/138 survey respondents are in the 18–25 age group, while the 26–35 group has noticeably lower Service Rating, indicating higher expectations for the service experience.
 
    Recommendation: Design age-specific programs and services, with particular focus on improving the service experience for the 26–35 age group.
-
----
-
-> **Note:** This README follows the same structure as the SuperStore Dashboard sample report. Replace the image paths (`./images/...`) with your actual image links (e.g. raw GitHub links) once you've uploaded the dashboard images to your repository.
